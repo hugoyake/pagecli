@@ -18,7 +18,7 @@
     "dayjs": "^1.8.15",
     "es-cookie": "^1.2.0",
     "http-vue-loader": "^1.4.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.15",
     "material-design-icons-iconfont": "^4.0.5",
     "moment": "^2.24.0",
