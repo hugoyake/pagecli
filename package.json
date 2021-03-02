@@ -27,7 +27,7 @@
     "socket.io": "^2.2.0",
     "socket.io-client": "^2.2.0",
     "svg.js": "^2.7.1",
-    "urijs": "^1.19.1",
+    "urijs": "^1.19.6",
     "url-parse": "^1.4.7",
     "vee-validate": "^2.2.12",
     "vue": "^2.6.10",
